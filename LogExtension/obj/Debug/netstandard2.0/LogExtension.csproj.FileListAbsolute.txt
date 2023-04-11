@@ -1,0 +1,10 @@
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\bin\Debug\netstandard2.0\LogExtension.deps.json
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\bin\Debug\netstandard2.0\LogExtension.dll
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\bin\Debug\netstandard2.0\LogExtension.pdb
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.csproj.AssemblyReference.cache
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.AssemblyInfoInputs.cache
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.AssemblyInfo.cs
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.csproj.CoreCompileInputs.cache
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.dll
+D:\Projects\MongoDbLog\WorkerLogSample\LogExtension\obj\Debug\netstandard2.0\LogExtension.pdb
